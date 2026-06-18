@@ -1,3 +1,10 @@
+# 1.0.0 (2026-06-18)
+
+
+### Features
+
+* initial Freshdesk API client SDK ([288a890](https://github.com/wyre-technology/node-freshdesk/commit/288a890e9a2bb7996d18f378a3f04c36a62911b5))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
